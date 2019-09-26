@@ -1,0 +1,25 @@
+<div class="card-content">
+									<h3 class="card-title grey-text text-darken-4">
+										<a href="#popup-1" class="activator">
+											<span>Realistic Business Cards MockUp</span>
+											<i class="material-icons right">more_vert</i>
+										</a>
+									</h3>
+									<span class="category blue-text text-darken-2">Mockups</span>
+								</div>
+								<div id="popup-1" class="popup-box mfp-fade mfp-hide">
+									<div class="content">
+										<div class="image">
+											<img src="images/works/work1.jpg" alt="">
+										</div>
+										<div class="desc">
+											<div class="category">Mockups</div>
+											<h4>Realistic Business Cards MockUp</h4>
+											<p>
+												Here’s a new b-cards mock-up with several business cards scattered across the scene. The PSD file allows you 
+												to easily. Here’s a new b-cards mock-up with several business cards scattered across the scene.
+											</p>
+											<a href="#" class="btn waves-effect waves-light">View Project</a>
+										</div>
+									</div>
+								</div>
